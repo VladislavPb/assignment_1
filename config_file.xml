@@ -1,0 +1,22 @@
+<config>
+  <file
+    source_path="initial_folder"
+    destination_path="destination_folder"
+    file_name="some_file.txt"
+  />
+  <file
+    source_path="initial_folder"
+    destination_path="destination_folder"
+    file_name="another_file.txt"
+  />
+  <file
+    source_path="initial_folder"
+    destination_path="destination_folder"
+    file_name="some_file_with_random_name"
+  />
+  <file
+    source_path="initial_folder"
+    destination_path="some_random_folder"
+    file_name="another_file.txt"
+    />
+</config>
